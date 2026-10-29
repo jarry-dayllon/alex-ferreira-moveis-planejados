@@ -1,4 +1,4 @@
-# Alex Ferreira — Móveis Planejados
+# Alex Ferreira • Móveis Planejados
 
 Site responsivo com logo transparente, tema preto e dourado e galeria de móveis planejados.
 
